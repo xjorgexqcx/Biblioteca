@@ -1,0 +1,87 @@
+header{
+    background-color: #537598;
+    position:fixed;
+    width: 100%;
+    z-index: 20;
+}
+.menu{
+    width: 40%;
+    padding-left: 28%
+}
+.busquedaAutor{
+    padding-left: 7%;
+    padding-top: 3%;
+}
+.busquedaTitulo{
+    height: 68px;
+    margin-top: -7.3%;
+    padding-left: 56%;
+}
+.botonBusqueda{
+    height: 32px;
+}
+.cajaBusqueda{
+    height: 26px;
+}
+body{
+    margin:0px !important;
+}
+.page{
+    position: absolute;
+    margin-top: 82px;
+    width: 100%;
+    height: 226%;
+    background-color: lightblue;
+}
+.topLista{
+    width: 80%;
+    height: 2%;
+    margin-left: 17%;
+}
+.topLista div{
+    width: 5%;
+    position: relative;
+}
+.topLista div p{
+    padding: 1%;
+}
+.botLista{
+     width: 80%;
+    height: 60%;
+    margin-left: 17%;
+}
+.botLista div{
+    width: 5%;
+    position: relative;
+}
+.botLista div p{
+    padding: 1%;
+}
+#first{
+    margin-left: -60%;
+    width: 21%;
+    background-color: gray;
+    color: white;
+}
+#second{
+    margin-left: -17%;
+    margin-top: -3.3%;
+    width: 21%;
+    background-color: gray;
+    color: white;
+}
+#third{
+    margin-left: 26%;
+    margin-top: -3.3%;
+    width: 21%;
+    background-color: gray;
+    color: white;
+}
+
+footer{
+    background-color: #537598;
+    height: 85px;
+    position: absolute;
+    width: 100%;
+    margin-top:75%;
+}
