@@ -7,8 +7,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <%
-            response.sendRedirect("vistas/index.jsp");
-            %>
+      
     </body>
 </html>
