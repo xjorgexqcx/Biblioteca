@@ -8,7 +8,7 @@
     </head>
     <body>
         <header>
-            <div Style="margin-bottom: -24px;margin-left: 90%;margin-top: 26px;margin-bottom: -55px;">
+            <div Style="margin-bottom:-24px;margin-left: 90%;margin-top: 26px;margin-bottom: -55px;">
             <button style="width: 80px;height: 30px;">Mi Cuenta</button>
             </div>
             <div Style="margin-bottom: -24px;margin-left: 96%;margin-top: 25px;margin-bottom: -54px;">
@@ -21,15 +21,9 @@
                         <input class="cajaBusqueda" placeholder="Busqueda por titulo o por autor" type="text" id="buscaAutor" name="autor" />
                         <input class="botonBusqueda" type="submit" name="bAutor" value="Buscar" />
                     </form>
-                </div>
-                
+                </div>                
             </div>
-
         </header>
-         <body class="page">
-        
-        
-        
         <br><br><br>
         <h1 align="center">Lista de Usuarios</h1>
         <table border="1" align="center" width="1228px" height="50px" class="prueba_imagen2">

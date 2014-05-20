@@ -25,7 +25,7 @@
                </div>
         </header>
          <body class="page">
-        <h1 align="center">Lista de Ejemplares</h1>
+        <h1 align="center">Lista de Ejemplares.</h1>
         <div>
             
            

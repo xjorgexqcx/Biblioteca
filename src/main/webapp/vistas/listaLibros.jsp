@@ -8,16 +8,16 @@
     </head>
     <body>
         <header>
-            <div Style="margin-bottom: -24px;margin-left: 90%;margin-top: 26px;margin-bottom: -55px;">
-            <button style="width: 80px;height: 30px;">Mi Cuenta</button>
+            <div Style="margin-bottom:-24px;margin-left:90%;margin-top:26px;margin-bottom:-55px;">
+            <button style="width:80px;height:30px;">Mi Cuenta</button>
             </div>
-            <div Style="margin-bottom: -24px;margin-left: 96%;margin-top: 25px;margin-bottom: -54px;">
-            <button style="width: 50px;height: 30px;">Salir</button>
+            <div Style="margin-bottom:-24px;margin-left:96%;margin-top:25px;margin-bottom:-54px;">
+            <button style="width:50px;height:30px;">Salir</button>
             </div>
             <div class="menu">
                 <div class="busquedaAutor">
                     <form action="">
-                        <img width="50px" style="margin-bottom: -14px;" src="../recursos/images/libros.png" />
+                        <img width="50px" style="margin-bottom:-14px;" src="../recursos/images/libros.png" />
                         <input class="cajaBusqueda" placeholder="Busqueda por titulo o por autor" type="text" id="buscaAutor" name="autor" />
                         <input class="botonBusqueda" type="submit" name="bAutor" value="Buscar" />
                     </form>
@@ -27,21 +27,14 @@
 
         </header>
          <body class="page">
-        <h1 align="center">Lista de Libros</h1>
-        <div>
-            
-           
-        </div>
-        <br><br>
+        <h1 align="center">Lista de Libros</h1> <br><br>
         <table border="1" align="center" width="1228px" height="50px" class="prueba_imagen2">
             <tr>
                 <th class="prueba_palabras">Titulo</th>
                 <th class="prueba_palabras">Autor</th>
                 <th class="prueba_palabras">A&ntilde;o de Publicaci&oacute;n</th>
-                <th class="prueba_palabras">Materia</th>
-                
-            </tr>
-    
+                <th class="prueba_palabras">Materia</th>                
+            </tr>    
             <tr>
                  <td class="prueba_palabras">Programacion Basica</td>
                  <td class="prueba_palabras">AEJ</td>
@@ -51,8 +44,7 @@
                     <a href="OpLibros.htm?op=update&id=<c:out value="" >Actualiza</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="OpLibros.htm?op=delete&id=<c:out value="" >Eliminar</a>
                 </td>
-            </tr>
-            
+            </tr>            
               <tr>
                  <td class="prueba_palabras">Matematica I</td>
                  <td class="prueba_palabras">Coveñas</td>
@@ -62,8 +54,7 @@
                     <a href="OpLibros.htm?op=update&id=<c:out value="" >Actualiza</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="OpLibros.htm?op=delete&id=<c:out value="" >Eliminar</a>
                 </td>
-            </tr>
-            
+            </tr>            
               <tr>
                  <td class="prueba_palabras">Fisica II</td>
                  <td class="prueba_palabras">MNT</td>
@@ -73,8 +64,7 @@
                     <a href="OpLibros.htm?op=update&id=<c:out value="" >Actualiza</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="OpLibros.htm?op=delete&id=<c:out value="" >Eliminar</a>
                 </td>
-            </tr>
-            
+            </tr>            
               <tr>
                  <td class="prueba_palabras">Estadistica I</td>
                  <td class="prueba_palabras">ADAM</td>
